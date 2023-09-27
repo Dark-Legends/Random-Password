@@ -19,7 +19,8 @@ sudo apt-get update
 apt-get upgrade -y
 ```
 
-```bash                                                                                                               sudo apt-get install git -y
+```bash
+apt-get install git -y
 ```
 
 ```bash
