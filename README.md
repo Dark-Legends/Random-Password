@@ -23,7 +23,7 @@ apt-get upgrade -y
 ```
 
 ```bash
-git clone https://github.com/Dark-Legends/Random-Passwords
+git clone https://github.com/Dark-Legends/Random-Password
 ```
 
 ```bash
@@ -49,7 +49,7 @@ apt install git -y
 ```
 
 ```bash
-git clone https://github.com/Dark-Legends/Random-Passwords
+git clone https://github.com/Dark-Legends/Random-Password
 ```
 
 ```bash
