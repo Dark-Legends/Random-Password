@@ -14,7 +14,9 @@ Hi welcome to Random-Passwords Generator 🔥 it Generator New Password and also
 
 
 # 🔰 Installation And Requirements 🔰
- Ubuntu, Kali, Debian...
+ # Ubuntu, Kali, Debian...
+
+ 
 ```bash
 sudo apt-get update
 ```
