@@ -4,9 +4,8 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-  - [Ubuntu, Kali, Debian](#ubuntu-kali-debian)
-  - [Termux](#termux)
+- [Ubuntu, Kali, Debian](#ubuntu-kali-debian)
+- [Termux](#Termux_Android)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,6 +54,7 @@ chmod +x Random-Passwords.sh
 
 
 # 🔰 Tool Installation On Termux 🔰
+###Termux_Android
 ```bash
 apt update && apt upgrade -y
 ```
