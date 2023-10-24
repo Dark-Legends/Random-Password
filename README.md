@@ -5,14 +5,14 @@
 
 <img src="Screenshot_2023_0927_161410.png"/>
 
-# This Tool Test On 👨‍💻
+<h2>This Tool Test On 👨‍💻</h2>
 - Ubuntu
 - Kali
 - Termux
 - Debian
 
 
-# 🔰 Installation And Requirements 🔰
+<h2>🔰 Installation And Requirements 🔰</h2>
  ### Ubuntu, Kali, Debian...
 
  
