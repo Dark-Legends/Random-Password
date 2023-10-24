@@ -1,4 +1,4 @@
-# Random-Password 🤖
+<h1>Random-Password 🤖</h1>
 <b><p align="center">Hi welcome to Random-Passwords Generator 🔥 it Generator New Password and also it's generate special characters password This Tool help Generator strong passwords for users if you want to keep more stronger password use the 18 letter characters password in this tool it's provided</p></b>
 
 
@@ -6,14 +6,17 @@
 <img src="Screenshot_2023_0927_161410.png"/>
 
 <h2>This Tool Test On 👨‍💻</h2>
-- Ubuntu
-- Kali
-- Termux
-- Debian
+
+
+<h4>Ubuntu</h4>
+<h4>Kali</h4>
+<h4>Debain</h4>
+<h4>Termux</h4>
+
 
 
 <h2>🔰 Installation And Requirements 🔰</h2>
- ### Ubuntu, Kali, Debian...
+ <h3>Ubuntu, Kali, Debian...</h3>
 
  
 ```bash
@@ -45,7 +48,7 @@ chmod +x Random-Passwords.sh
 ```
 
 
-# 🔰 Tool Installation On Termux 🔰
+<h3>🔰 Tool Installation On Termux 🔰</h3>
 
 ```bash
 apt update && apt upgrade -y
