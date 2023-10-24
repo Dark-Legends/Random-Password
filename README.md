@@ -15,7 +15,7 @@
 
 
 
-<h2>🔰 Installation And Requirements 🔰</h2>
+<h2 align="center">🔰 Installation And Requirements 🔰</h2>
  <h3>Ubuntu, Kali, Debian...</h3>
 
  
@@ -48,7 +48,7 @@ chmod +x Random-Passwords.sh
 ```
 
 
-<h3>🔰 Tool Installation On Termux 🔰</h3>
+<h3 align="center">🔰 Tool Installation On Termux 🔰</h3>
 
 ```bash
 apt update && apt upgrade -y
