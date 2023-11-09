@@ -74,5 +74,4 @@ chmod +x Random-Passwords.sh &&. /Random-Password.sh
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat-square&logo=telegram)](https://t.me/CyberDarkLegends)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]
-(https://github.com/Dark-Legends)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/Dark-Legends)
