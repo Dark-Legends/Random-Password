@@ -76,5 +76,3 @@ chmod +x Random-Passwords.sh &&. /Random-Password.sh
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]
 (https://github.com/Dark-Legends)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)]
-(https://github.com/Dark-Legends)
