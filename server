@@ -1,0 +1,32 @@
+#!/bin/bash
+R="\033[1;31m"
+G="\033[1;32m"
+Y="\033[1;33m"
+PU="\033[1;34m"
+PI="\033[1;35m"
+B="\033[1;36m"
+W="\033[1;37m"
+Gold="\033[1;38;5;220m"
+Yellow="\033[2;93m"
+Purple="\033[1;38;5;93m"
+clear
+for ((i=1; i<=5; i++)) do
+echo
+done
+# Start Python Server
+banner20() {
+echo -e "\t${G}┏┓┳┳┳  ┳┓┏┓┳┓┳┓┏┓┳┳┓  ┏┓┏┓┏┓┏┓┓ ┏┏┓┳┓┳┓"
+echo -e "\t${Y}┃┓┃┃┃  ┣┫┣┫┃┃┃┃┃┃┃┃┃  ┃┃┣┫┗┓┗┓┃┃┃┃┃┣┫┃┃"
+echo -e "\t${R}┗┛┗┛┻  ┛┗┛┗┛┗┻┛┗┛┛ ┗  ┣┛┛┗┗┛┗┛┗┻┛┗┛┛┗┻┛\n\n\n"
+echo -e "\t\t${Purple}Code ${W}By ${Gold}Manjunath\n\n\n\n"
+}
+banner20
+echo -e "\a${G}Starting Server...\n"
+sleep 1
+python3 -m http.server 8080 > /dev/null 2>&1 &
+link="http://localhost:8080"
+echo -e "${W}Your ${Y}Python server ${B}url ${G} : $link\a\n\n"
+# Kill The Running Processes
+echo -e "\a${W}Press ${G}Enter To ${R}Exit"
+read -e
+killall -9 python3 > /dev/null 2>&1 &
