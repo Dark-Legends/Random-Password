@@ -18,7 +18,8 @@ banner20() {
 echo -e "\t${G}┏┓┳┳┳  ┳┓┏┓┳┓┳┓┏┓┳┳┓  ┏┓┏┓┏┓┏┓┓ ┏┏┓┳┓┳┓"
 echo -e "\t${Y}┃┓┃┃┃  ┣┫┣┫┃┃┃┃┃┃┃┃┃  ┃┃┣┫┗┓┗┓┃┃┃┃┃┣┫┃┃"
 echo -e "\t${R}┗┛┗┛┻  ┛┗┛┗┛┗┻┛┗┛┛ ┗  ┣┛┛┗┗┛┗┛┗┻┛┗┛┛┗┻┛\n\n\n"
-echo -e "\t\t${Purple}Code ${W}By ${Gold}Manjunath\n\n\n\n"
+echo -e "\t\t${Purple}Code ${W}By ${Gold}Manjunath\n\n"
+echo -e "\t\t${G}version 3.0\n"
 }
 banner20
 echo -e "\a${G}Starting Server...\n"
