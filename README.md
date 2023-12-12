@@ -17,7 +17,8 @@
 
 ![-2147483648_-210000](https://github.com/Dark-Legends/Random-Password/assets/142109781/5c61f432-8658-4301-91cb-d58ba34bf1fc)
 
-![-6325530102024223390_109](https://github.com/Dark-Legends/Random-Password/assets/142109781/4dd7629f-eb46-40e0-82e4-cfc66eb50d8d)
+
+![-6240114429551295096_121](https://github.com/Dark-Legends/Random-Password/assets/142109781/8e0bc846-e743-4893-9f00-07da0928390a)
 
 <h2 align="center">🔰 Installation And Requirements 🔰</h2>
  <h3>Ubuntu, Kali, Debian...</h3>
